@@ -19,4 +19,4 @@ function getPerson(req,res){
 module.exports = {
   getAllPersons,
   getPerson
-}c
+}
